@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://wa.me/+919158724772">
-    <img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" alt="whatsapp Badge"/>
+    <img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" alt="whatsapp Badge" width="30px" height="30px"/>
   </a>
 </div>
 </div>
